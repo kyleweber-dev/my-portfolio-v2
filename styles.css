@@ -239,6 +239,7 @@ section {
   max-width: 100%;
   overflow: hidden;
   border-radius: 8px;
+  border: 2px solid var(--accent-color-dark);
 }
 
 .projectItemImgContainer img {
