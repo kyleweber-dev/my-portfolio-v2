@@ -80,8 +80,12 @@ section {
   gap: 48px;
 }
 
-.logo {
+/* .logo {
   font-family: "Grechen Fuemen", sans-serif;
+} */
+
+.logoImg img {
+  max-width: 40px;
 }
 
 .nameContainer {
